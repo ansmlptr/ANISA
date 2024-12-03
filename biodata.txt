@@ -1,0 +1,5 @@
+biodata
+
+nama 	: anisa amalia putri
+kelas	: 4IA20
+npm 	: 50421172
